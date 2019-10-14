@@ -1,1 +1,1 @@
-Test
+<?php echo "Kamil KAYA" ?>
